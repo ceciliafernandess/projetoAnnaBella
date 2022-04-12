@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ferc90
-- 👀 I’m interested in learning
+- 👀 I’m interested in learn what I want more
 - 🌱 I’m currently learning Python ...
 
 
