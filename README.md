@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ferc90
-- 👀 I’m interested in learn what I want more
-- 🌱 I’m currently learning Python ...
+- 👋 Hi, I’m Cecília Fernandes
+- 👀 I’m interested in learn what I want more about programming
+- 🌱 I’m currently learning Python, ...
 
 
 <!---
