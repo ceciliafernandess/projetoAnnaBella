@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Cecília Fernandes
-- 👀 I’m interested in learn what I want more about programming
-- 🌱 I’m currently learning Python, ...
-
-
-<!---
-ferc90/ferc90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<Olá, sou Cecília Fernandes e comecei nesta jornada chamada Programação. Iniciei o curso Técnológico de Análise de Dados e descobri que quero seguir na Área de Desenvolvimento Web.> 
