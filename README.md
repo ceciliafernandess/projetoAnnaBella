@@ -1,1 +1,1 @@
-<Olá, sou Cecília Fernandes e comecei nesta jornada chamada Programação. Iniciei o curso Tecnológico de Análise de Dados, e pretendo ingressar também na Área de Desenvolvimento Web e ser uma Dev Front End \o/.> 
+Projeto inicial do curso de Desenvolvimento Web da Udemy 
